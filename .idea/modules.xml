@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Soufiane-Benchlih-back-bankaccount-dev-sbenchlih.iml" filepath="$PROJECT_DIR$/.idea/Soufiane-Benchlih-back-bankaccount-dev-sbenchlih.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bankaccount/bankaccount.iml" filepath="$PROJECT_DIR$/bankaccount/bankaccount.iml" />
-    </modules>
-  </component>
-</project>
